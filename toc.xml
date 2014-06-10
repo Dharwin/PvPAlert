@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="CopperHook" APIVersion="8" Name="PvPAlert" Description="Alerts you when a nearby enemy is performing a PvP objective action.">
+    <Script Name="PvPAlert.lua"/>
+    <Form Name="PvPAlert.xml"/>
+</Addon>
