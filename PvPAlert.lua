@@ -77,7 +77,7 @@ function PvPAlert:OnDocLoaded()
 		
 		self:RegisterAlertSpell("Picking Up Moodie Mask")
 		self:RegisterAlertSpell("Detaching Moodie Mask")
-		self:RegisterAlertSpell("Activating Housing Model")
+		self:RegisterAlertSpell("Activating Control Point")
 				
 	    self.wndMain:Show(false, true)
 
