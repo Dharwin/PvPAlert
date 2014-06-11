@@ -204,7 +204,9 @@ end
 function PvPAlert:ShouldAlertUnit(unit)
 	--if unit == GameLib:GetTargetUnit() then return true end
 	
-	if self.playerFaction == unit:GetFaction() then return false end
+	if self.playerFaction == unit:GetFaction() then
+		return false
+	end
 	
 	if unit:IsCasting() then
 		-- Print("Unit is casting " .. unit:GetCastName())

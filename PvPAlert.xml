@@ -13,6 +13,6 @@
         </Control>
     </Form>
     <Form Class="WorldFixedWindow" LAnchorPoint="SELF" LAnchorOffset="-35" TAnchorPoint="0" TAnchorOffset="-100" RAnchorPoint="0" RAnchorOffset="35" BAnchorPoint="0" BAnchorOffset="35" RelativeToClient="1" Font="Default" Text="" BGColor="UI_WindowBGDefault" TextColor="UI_WindowTextDefault" Template="Default" TooltipType="OnCursor" Name="AlertOverhead" Border="0" Picture="0" SwallowMouseClicks="1" Moveable="0" Escapable="0" Overlapped="1" TooltipColor="" Visible="0" DoNotBlockTooltip="1" Tooltip="">
-        <Control Class="Window" LAnchorPoint="0" LAnchorOffset="0" TAnchorPoint="0" TAnchorOffset="0" RAnchorPoint="0" RAnchorOffset="71" BAnchorPoint="0" BAnchorOffset="74" RelativeToClient="1" Font="Default" Text="" BGColor="UI_WindowBGDefault" TextColor="UI_WindowTextDefault" Template="Default" TooltipType="OnCursor" Name="Icon" TooltipColor="" Sprite="CRB_BreakoutSprites:spr_BreakoutStun_ClockYellow" Picture="1" IgnoreMouse="1"/>
+        <Control Class="Window" LAnchorPoint="0" LAnchorOffset="0" TAnchorPoint="0" TAnchorOffset="0" RAnchorPoint="0" RAnchorOffset="71" BAnchorPoint="0" BAnchorOffset="74" RelativeToClient="1" Font="Default" Text="" BGColor="UI_WindowBGDefault" TextColor="UI_WindowTextDefault" Template="Default" TooltipType="OnCursor" Name="Icon" TooltipColor="" Sprite="BK3:spr_Holo_IconsOptions_Combat" Picture="1" IgnoreMouse="1"/>
     </Form>
 </Forms>
